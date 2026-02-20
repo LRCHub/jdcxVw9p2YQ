@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "フールフールフール",
+  "base_artist": "Hosomichi Okuno",
+  "createdAt": "2026-02-20T08:46:51.049882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フールフールフール feat.Ado",
+      "artist": "おくのほそみち",
+      "has_synced": true,
+      "path": "select/01_フールフールフール_feat.Ado_おくのほそみち.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フールフールフール",
+      "artist": "おくのほそみち/Ado",
+      "has_synced": true,
+      "path": "select/02_フールフールフール_おくのほそみち_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フールフールフール (feat. Ado)",
+      "artist": "おくのほそみち • Ado",
+      "has_synced": true,
+      "path": "select/03_フールフールフール_(feat._Ado)_おくのほそみち_•_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フールフールフール feat.Ado",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_フールフールフール_feat.Ado_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フールフールフール",
+      "artist": "おくのほそみち, Ado",
+      "has_synced": true,
+      "path": "select/05_フールフールフール_おくのほそみち,_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フールフールフール",
+      "artist": "Ado; おくのほそみち",
+      "has_synced": true,
+      "path": "select/06_フールフールフール_Ado;_おくのほそみち.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フールフールフール (feat. Ado)",
+      "artist": "Hosomichi Okuno",
+      "has_synced": false,
+      "path": "select/pl_01_フールフールフール_(feat._Ado)_Hosomichi_Okuno.txt"
+    }
+  ]
+}
